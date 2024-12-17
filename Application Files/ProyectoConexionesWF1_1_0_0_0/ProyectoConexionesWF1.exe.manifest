@@ -1,0 +1,83 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<asmv1:assembly xsi:schemaLocation="urn:schemas-microsoft-com:asm.v1 assembly.adaptive.xsd" manifestVersion="1.0" xmlns:asmv1="urn:schemas-microsoft-com:asm.v1" xmlns="urn:schemas-microsoft-com:asm.v2" xmlns:asmv2="urn:schemas-microsoft-com:asm.v2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:co.v1="urn:schemas-microsoft-com:clickonce.v1" xmlns:asmv3="urn:schemas-microsoft-com:asm.v3" xmlns:dsig="http://www.w3.org/2000/09/xmldsig#" xmlns:co.v2="urn:schemas-microsoft-com:clickonce.v2">
+  <asmv1:assemblyIdentity name="ProyectoConexionesWF1.exe" version="1.0.0.0" publicKeyToken="0457f47b27d2d99a" language="neutral" processorArchitecture="msil" type="win32" />
+  <application />
+  <entryPoint>
+    <assemblyIdentity name="ProyectoConexionesWF1" version="1.0.0.0" language="neutral" processorArchitecture="msil" />
+    <commandLine file="ProyectoConexionesWF1.exe" parameters="" />
+  </entryPoint>
+  <trustInfo>
+    <security>
+      <applicationRequestMinimum>
+        <PermissionSet Unrestricted="true" ID="Custom" SameSite="site" />
+        <defaultAssemblyRequest permissionSetReference="Custom" />
+      </applicationRequestMinimum>
+      <requestedPrivileges xmlns="urn:schemas-microsoft-com:asm.v3">
+        <!--
+          UAC Manifest Options
+          If you want to change the Windows User Account Control level replace the
+          requestedExecutionLevel node with one of the following.
+
+        <requestedExecutionLevel  level="asInvoker" uiAccess="false" />
+        <requestedExecutionLevel  level="requireAdministrator" uiAccess="false" />
+        <requestedExecutionLevel  level="highestAvailable" uiAccess="false" />
+
+         If you want to utilize File and Registry Virtualization for backward
+         compatibility then delete the requestedExecutionLevel node.
+    -->
+        <requestedExecutionLevel level="asInvoker" uiAccess="false" />
+      </requestedPrivileges>
+    </security>
+  </trustInfo>
+  <dependency>
+    <dependentOS>
+      <osVersionInfo>
+        <os majorVersion="5" minorVersion="1" buildNumber="2600" servicePackMajor="0" />
+      </osVersionInfo>
+    </dependentOS>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="preRequisite" allowDelayedBinding="true">
+      <assemblyIdentity name="Microsoft.Windows.CommonLanguageRuntime" version="4.0.30319.0" />
+    </dependentAssembly>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="ProyectoConexionesWF1.exe" size="102376">
+      <assemblyIdentity name="ProyectoConexionesWF1" version="1.0.0.0" language="neutral" processorArchitecture="msil" />
+      <hash>
+        <dsig:Transforms>
+          <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+        </dsig:Transforms>
+        <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+        <dsig:DigestValue>Jc55Oehf49eLqajcG1i5FXxFjpXOxlILf/9k0CzkYmE=</dsig:DigestValue>
+      </hash>
+    </dependentAssembly>
+  </dependency>
+  <file name="ConexionADO.mdf" size="8388608" writeableType="applicationData">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+      <dsig:DigestValue>CW0wJGtC2pD1BjLBoPjewBXTN6SmDbkRxVO+W2g2yko=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="ConexionADO_log.ldf" size="8388608" writeableType="applicationData">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+      <dsig:DigestValue>M6iYuFT5LcUqQngTPLGA6rqIGtwxEJd30nC13Ks2JEs=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="ProyectoConexionesWF1.exe.config" size="883">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+      <dsig:DigestValue>VQEjPSm/gnxRRJwXyv46SBX2BHwPlMBUN16s0I9aJco=</dsig:DigestValue>
+    </hash>
+  </file>
+<publisherIdentity name="CN=DESKTOP-PLNCBJ5\Miguel" issuerKeyHash="25242d04027b2cddcd8f79bce7698fd63d31f0a4" /><Signature Id="StrongNameSignature" xmlns="http://www.w3.org/2000/09/xmldsig#"><SignedInfo><CanonicalizationMethod Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /><SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha256" /><Reference URI=""><Transforms><Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature" /><Transform Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /></Transforms><DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" /><DigestValue>Z/QLxC75PbY8o6On5siWN4PYOiIxp6p0drvBATI5ZNA=</DigestValue></Reference></SignedInfo><SignatureValue>fSgGjpOb7WfC9Bl9YwqDrh/8LLl8Z2oJU0GDj7nHEPCKAiOYLSjjYseicwxYIFV0jnC5trXX7oGYNiZbRnekwf3UuwMJUu0QVA1VAhF8P/ROH5T3GSj18kFNOMUwrU/VPPfHTnq/pwhaTLMEzFqGmC3M4ic+JBntIawB6YCeGpQ=</SignatureValue><KeyInfo Id="StrongNameKeyInfo"><KeyValue><RSAKeyValue><Modulus>ssyLBY7rwYmoDKu41TJ5nsKe+ytglY3W8OtouOCTY4CzxSTBW0Aar9YR4vo58hf3ldZ6L/26rQAkjGG+5wB3hAQwuV8NT3fFeO5ZxGQwOng2El8IaIbYUJBzl58jguP32CRBuDGGflmUE/Xgyxh5S+I5DEVCRErgoS+za9wapwE=</Modulus><Exponent>AQAB</Exponent></RSAKeyValue></KeyValue><msrel:RelData xmlns:msrel="http://schemas.microsoft.com/windows/rel/2005/reldata"><r:license xmlns:r="urn:mpeg:mpeg21:2003:01-REL-R-NS" xmlns:as="http://schemas.microsoft.com/windows/pki/2005/Authenticode"><r:grant><as:ManifestInformation Hash="d064393201c1bb7674aaa731223ad8833796c8e6a7a3a33cb63df92ec40bf467" Description="" Url=""><as:assemblyIdentity name="ProyectoConexionesWF1.exe" version="1.0.0.0" publicKeyToken="0457f47b27d2d99a" language="neutral" processorArchitecture="msil" type="win32" /></as:ManifestInformation><as:SignedBy /><as:AuthenticodePublisher><as:X509SubjectName>CN=DESKTOP-PLNCBJ5\Miguel</as:X509SubjectName></as:AuthenticodePublisher></r:grant><r:issuer><Signature Id="AuthenticodeSignature" xmlns="http://www.w3.org/2000/09/xmldsig#"><SignedInfo><CanonicalizationMethod Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /><SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha256" /><Reference URI=""><Transforms><Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature" /><Transform Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /></Transforms><DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" /><DigestValue>i1OdyBCyFOSIBbloTS8Qr3iEx2d7snreopgy9OdO4VU=</DigestValue></Reference></SignedInfo><SignatureValue>d0AAFYmTeVbLRBPpt/V6QbRDtOzyQ8seEuFEIholLhKEK7WvMtXhI2ADwy7oB9IzLSJR0ZNogJ4iFYxj9CnorWvy1555y9WZNYMuxYCoOE9HExQIuZBD1PvyU2omz73h/NrPZcz+xNwuIeA4HsG+Ok3LAXbRg4HFx0lNonmi1QY=</SignatureValue><KeyInfo><KeyValue><RSAKeyValue><Modulus>ssyLBY7rwYmoDKu41TJ5nsKe+ytglY3W8OtouOCTY4CzxSTBW0Aar9YR4vo58hf3ldZ6L/26rQAkjGG+5wB3hAQwuV8NT3fFeO5ZxGQwOng2El8IaIbYUJBzl58jguP32CRBuDGGflmUE/Xgyxh5S+I5DEVCRErgoS+za9wapwE=</Modulus><Exponent>AQAB</Exponent></RSAKeyValue></KeyValue><X509Data><X509Certificate>MIIB8TCCAVqgAwIBAgIQbuaPkPt9f4JHBu01/LYGxzANBgkqhkiG9w0BAQsFADA3MTUwMwYDVQQDHiwARABFAFMASwBUAE8AUAAtAFAATABOAEMAQgBKADUAXABNAGkAZwB1AGUAbDAeFw0yNDEyMTYyMzAyMjZaFw0yNTEyMTcwNTAyMjZaMDcxNTAzBgNVBAMeLABEAEUAUwBLAFQATwBQAC0AUABMAE4AQwBCAEoANQBcAE0AaQBnAHUAZQBsMIGfMA0GCSqGSIb3DQEBAQUAA4GNADCBiQKBgQCyzIsFjuvBiagMq7jVMnmewp77K2CVjdbw62i44JNjgLPFJMFbQBqv1hHi+jnyF/eV1nov/bqtACSMYb7nAHeEBDC5Xw1Pd8V47lnEZDA6eDYSXwhohthQkHOXnyOC4/fYJEG4MYZ+WZQT9eDLGHlL4jkMRUJESuChL7Nr3BqnAQIDAQABMA0GCSqGSIb3DQEBCwUAA4GBAJsCiBMi+P2VnYaqRydUeFurA/VXxCJbDJT8AxgiMQL3b46if2P7JT90QVVuZTkqVcYzeoYjNpQ8ExXhhmDC1nZWoLCWwytTtwCY8U+owcfcudm60rR1Y46pmAR1CWgVRT5w3NG3WjOI31n+MVxN5oG7M6gcSwIeNy0HNcbh9tfa</X509Certificate></X509Data></KeyInfo></Signature></r:issuer></r:license></msrel:RelData></KeyInfo></Signature></asmv1:assembly>

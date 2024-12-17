@@ -1,0 +1,33 @@
+C:\Users\Miguel\source\repos\ProyectoConexionesWF1\ProyectoConexionesWF1\bin\Debug\ConexionADO.mdf
+C:\Users\Miguel\source\repos\ProyectoConexionesWF1\ProyectoConexionesWF1\bin\Debug\ConexionADO_log.ldf
+C:\Users\Miguel\source\repos\ProyectoConexionesWF1\ProyectoConexionesWF1\bin\Debug\ProyectoConexionesWF1.exe.config
+C:\Users\Miguel\source\repos\ProyectoConexionesWF1\ProyectoConexionesWF1\bin\Debug\ProyectoConexionesWF1.exe
+C:\Users\Miguel\source\repos\ProyectoConexionesWF1\ProyectoConexionesWF1\bin\Debug\ProyectoConexionesWF1.pdb
+C:\Users\Miguel\source\repos\ProyectoConexionesWF1\ProyectoConexionesWF1\obj\Debug\ProyectoConexionesWF1.csproj.AssemblyReference.cache
+C:\Users\Miguel\source\repos\ProyectoConexionesWF1\ProyectoConexionesWF1\obj\Debug\ProyectoConexionesWF1.Form1.resources
+C:\Users\Miguel\source\repos\ProyectoConexionesWF1\ProyectoConexionesWF1\obj\Debug\ProyectoConexionesWF1.Properties.Resources.resources
+C:\Users\Miguel\source\repos\ProyectoConexionesWF1\ProyectoConexionesWF1\obj\Debug\ProyectoConexionesWF1.csproj.GenerateResource.cache
+C:\Users\Miguel\source\repos\ProyectoConexionesWF1\ProyectoConexionesWF1\obj\Debug\ProyectoConexionesWF1.csproj.CoreCompileInputs.cache
+C:\Users\Miguel\source\repos\ProyectoConexionesWF1\ProyectoConexionesWF1\obj\Debug\ProyectoConexionesWF1.exe
+C:\Users\Miguel\source\repos\ProyectoConexionesWF1\ProyectoConexionesWF1\obj\Debug\ProyectoConexionesWF1.pdb
+C:\Users\Miguel\source\repos\ProyectoConexionesWF1\ProyectoConexionesWF1\obj\Debug\ProyectoConexionesWF1.UserForm.resources
+C:\Users\Miguel\source\repos\ProyectoConexionesWF1\ProyectoConexionesWF1\obj\Debug\ProyectoConexionesWF1.MainScreen.resources
+C:\Users\Miguel\Documents\UAA\INTRODUCCION A LA PROGRAMACION ORIENTADA POR OBJETOS - C#\Clase12\ProyectoConexionesWF1\ProyectoConexionesWF1\bin\Debug\ConexionADO.mdf
+C:\Users\Miguel\Documents\UAA\INTRODUCCION A LA PROGRAMACION ORIENTADA POR OBJETOS - C#\Clase12\ProyectoConexionesWF1\ProyectoConexionesWF1\bin\Debug\ConexionADO_log.ldf
+C:\Users\Miguel\Documents\UAA\INTRODUCCION A LA PROGRAMACION ORIENTADA POR OBJETOS - C#\Clase12\ProyectoConexionesWF1\ProyectoConexionesWF1\bin\Debug\ProyectoConexionesWF1.exe.config
+C:\Users\Miguel\Documents\UAA\INTRODUCCION A LA PROGRAMACION ORIENTADA POR OBJETOS - C#\Clase12\ProyectoConexionesWF1\ProyectoConexionesWF1\bin\Debug\ProyectoConexionesWF1.exe
+C:\Users\Miguel\Documents\UAA\INTRODUCCION A LA PROGRAMACION ORIENTADA POR OBJETOS - C#\Clase12\ProyectoConexionesWF1\ProyectoConexionesWF1\bin\Debug\ProyectoConexionesWF1.pdb
+C:\Users\Miguel\Documents\UAA\INTRODUCCION A LA PROGRAMACION ORIENTADA POR OBJETOS - C#\Clase12\ProyectoConexionesWF1\ProyectoConexionesWF1\obj\Debug\ProyectoConexionesWF1.csproj.AssemblyReference.cache
+C:\Users\Miguel\Documents\UAA\INTRODUCCION A LA PROGRAMACION ORIENTADA POR OBJETOS - C#\Clase12\ProyectoConexionesWF1\ProyectoConexionesWF1\obj\Debug\ProyectoConexionesWF1.UserForm.resources
+C:\Users\Miguel\Documents\UAA\INTRODUCCION A LA PROGRAMACION ORIENTADA POR OBJETOS - C#\Clase12\ProyectoConexionesWF1\ProyectoConexionesWF1\obj\Debug\ProyectoConexionesWF1.Form1.resources
+C:\Users\Miguel\Documents\UAA\INTRODUCCION A LA PROGRAMACION ORIENTADA POR OBJETOS - C#\Clase12\ProyectoConexionesWF1\ProyectoConexionesWF1\obj\Debug\ProyectoConexionesWF1.MainScreen.resources
+C:\Users\Miguel\Documents\UAA\INTRODUCCION A LA PROGRAMACION ORIENTADA POR OBJETOS - C#\Clase12\ProyectoConexionesWF1\ProyectoConexionesWF1\obj\Debug\ProyectoConexionesWF1.Properties.Resources.resources
+C:\Users\Miguel\Documents\UAA\INTRODUCCION A LA PROGRAMACION ORIENTADA POR OBJETOS - C#\Clase12\ProyectoConexionesWF1\ProyectoConexionesWF1\obj\Debug\ProyectoConexionesWF1.csproj.GenerateResource.cache
+C:\Users\Miguel\Documents\UAA\INTRODUCCION A LA PROGRAMACION ORIENTADA POR OBJETOS - C#\Clase12\ProyectoConexionesWF1\ProyectoConexionesWF1\obj\Debug\ProyectoConexionesWF1.csproj.CoreCompileInputs.cache
+C:\Users\Miguel\Documents\UAA\INTRODUCCION A LA PROGRAMACION ORIENTADA POR OBJETOS - C#\Clase12\ProyectoConexionesWF1\ProyectoConexionesWF1\obj\Debug\ProyectoConexionesWF1.exe
+C:\Users\Miguel\Documents\UAA\INTRODUCCION A LA PROGRAMACION ORIENTADA POR OBJETOS - C#\Clase12\ProyectoConexionesWF1\ProyectoConexionesWF1\obj\Debug\ProyectoConexionesWF1.pdb
+C:\Users\Miguel\Documents\UAA\INTRODUCCION A LA PROGRAMACION ORIENTADA POR OBJETOS - C#\Clase12\ProyectoConexionesWF1\ProyectoConexionesWF1\obj\Debug\ProyectoConexionesWF1.About.resources
+C:\Users\Miguel\Documents\UAA\INTRODUCCION A LA PROGRAMACION ORIENTADA POR OBJETOS - C#\Clase12\ProyectoConexionesWF1\ProyectoConexionesWF1\bin\Debug\ProyectoConexionesWF1.exe.manifest
+C:\Users\Miguel\Documents\UAA\INTRODUCCION A LA PROGRAMACION ORIENTADA POR OBJETOS - C#\Clase12\ProyectoConexionesWF1\ProyectoConexionesWF1\bin\Debug\ProyectoConexionesWF1.application
+C:\Users\Miguel\Documents\UAA\INTRODUCCION A LA PROGRAMACION ORIENTADA POR OBJETOS - C#\Clase12\ProyectoConexionesWF1\ProyectoConexionesWF1\obj\Debug\ProyectoConexionesWF1.exe.manifest
+C:\Users\Miguel\Documents\UAA\INTRODUCCION A LA PROGRAMACION ORIENTADA POR OBJETOS - C#\Clase12\ProyectoConexionesWF1\ProyectoConexionesWF1\obj\Debug\ProyectoConexionesWF1.application
