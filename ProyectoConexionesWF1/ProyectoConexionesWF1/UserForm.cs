@@ -269,6 +269,8 @@ namespace ProyectoConexionesWF1
         private void usernameSelect_SelectedIndexChanged(object sender, EventArgs e)
         {
             var selectedUserId = usernameSelect.SelectedValue;
+            if(selectedUserId == null) return;
+
             var query = $"select * from t_usuarios as usuario where usuario.Id_usuario = @userId";
 
             var sqlCmd = new SqlCommand(query, DbManager.DbConnection);
